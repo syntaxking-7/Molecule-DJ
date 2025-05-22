@@ -1,5 +1,7 @@
-Week1: EDA (Exploratory Data Analysis), primary processing, and data visualization :
+Week1: 
 
+EDA (Exploratory Data Analysis), primary processing, and data visualization :
+EDA:
 1. How does the data look?
 2. Are there any duplicate entries? If yes, then what to do?
 3. Are there any missing entries? If yes, then what to do?
@@ -7,6 +9,13 @@ Week1: EDA (Exploratory Data Analysis), primary processing, and data visualizati
 5. Have a look at these resources:
    - https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/
    - https://www.youtube.com/watch?v=-o3AxdVcUtQ
+
+Data Pre-Processing: Getting your data ready to be fed into your classification algorithms. Which involves cleaning your data for any noise or unnecessary elements.
+For text dataset, that would mean:
+- Removing Stopwords
+- Removing special characters like emojis, hashtags, etc
+- Convert all the text into Lowercase for generalisation.
+- Removing punctuations and any other thing you may think does not affect the text's sentiment
 
 I am uploading my python notebook which I have made by basing on the Big Molecule Smiles dataset based on https://www.kaggle.com/datasets/yanmaksi/big-molecules-smiles-dataset.
 
