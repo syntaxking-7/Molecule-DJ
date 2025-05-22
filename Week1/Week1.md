@@ -15,3 +15,5 @@ Your assignment for the first week is to take any dataset on kaggle, (preferrabl
 The deadline to submit is *Monday EOD*.
 
 Feel free to ping me incase of any doubts.
+
+PS: my file also contains feature extraction which I will cover in the next lecture. for now, just do the pre-processing part.
