@@ -10,7 +10,7 @@ Week1: EDA (Exploratory Data Analysis), primary processing, and data visualizati
 
 I am uploading my python notebook which I have made by basing on the Big Molecule Smiles dataset based on https://www.kaggle.com/datasets/yanmaksi/big-molecules-smiles-dataset.
 
-Your assignment for the first week is to take any dataset on kaggle, (preferrably related to SMILES biut any text dataset will do) and submit a python notebook showing how you have answered the above four questions and completed preprocessing on the dataset. I would advise you to run the dataset by me before you use it so that you don't end up wasting your time. 
+Your assignment for the first week is to take any dataset on kaggle, (preferrably related to SMILES but any text dataset will do) and submit a python notebook showing how you have answered the above four questions and completed preprocessing on the dataset. I would advise you to run the dataset by me before you use it so that you don't end up wasting your time. 
 
 The deadline to submit is *Monday EOD*.
 
